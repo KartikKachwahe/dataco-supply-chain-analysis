@@ -1,4 +1,4 @@
-# 🚚 DataCo Smart Supply Chain Analytics & Predictive Intelligence
+# DataCo Smart Supply Chain Analytics & Predictive Intelligence
 
 ---
 
@@ -23,7 +23,7 @@ An end-to-end Supply Chain Analytics project combining Data Cleaning, Explorator
 
 ---
 
-# 📌 Table of Contents
+# Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Business Problem](#-business-problem)
@@ -47,7 +47,7 @@ An end-to-end Supply Chain Analytics project combining Data Cleaning, Explorator
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Modern supply chains generate massive volumes of operational and transactional data. Organizations must transform this data into insights that improve delivery performance, reduce operational costs, minimize fraud risk, and improve strategic decision-making.
 
@@ -71,7 +71,7 @@ The project follows a complete analytics lifecycle:
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 Global supply chain systems face several challenges:
 
@@ -93,7 +93,7 @@ Business stakeholders require answers to questions such as:
 
 ---
 
-# 📌 Project Objectives
+#  Project Objectives
 
 - Analyze overall supply chain performance
 - Measure delivery efficiency
@@ -106,7 +106,7 @@ Business stakeholders require answers to questions such as:
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 **Dataset Source:** Kaggle — DataCo Smart Supply Chain Dataset
 
@@ -150,7 +150,7 @@ Business stakeholders require answers to questions such as:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -167,7 +167,7 @@ Business stakeholders require answers to questions such as:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Dataset (.CSV)
@@ -200,7 +200,7 @@ Business Recommendations
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+#  Data Cleaning & Preparation
 
 Data preprocessing was implemented using reusable Python functions.
 
@@ -240,7 +240,7 @@ profit_margin_pct =
 
 ---
 
-# 📈 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 EDA focused on understanding operational patterns.
 
@@ -257,7 +257,7 @@ Visualizations included:
 
 ---
 
-# 📊 Dashboard Development & KPI Analysis
+# Dashboard Development & KPI Analysis
 
 Interactive dashboards were developed for business users.
 
@@ -284,9 +284,9 @@ Dashboard filters:
 
 ---
 
-# 🤖 Machine Learning Models
+#  Machine Learning Models
 
-## 🚚 Late Delivery Prediction
+##  Late Delivery Prediction
 
 Objective:
 
@@ -307,7 +307,7 @@ Evaluation:
 
 ---
 
-## 🔍 Fraud Detection
+##  Fraud Detection
 
 Objective:
 
@@ -328,7 +328,7 @@ Evaluation:
 
 ---
 
-# 📊 Model Performance & Results
+#  Model Performance & Results
 
 ## Late Delivery Prediction Results
 
@@ -366,7 +366,7 @@ Evaluation:
 
 ---
 
-# 📉 Feature Importance Analysis
+#  Feature Importance Analysis
 
 ## Fraud Detection Feature Importance
 
@@ -396,9 +396,9 @@ Important drivers:
 
 ---
 
-# 📌 Key Business Insights
+#  Key Business Insights
 
-## 🚚 Logistics Insights
+##  Logistics Insights
 
 - Shipping modes have varying delivery risk levels
 - Delay patterns vary by region
@@ -406,7 +406,7 @@ Important drivers:
 
 ---
 
-## 💰 Revenue Insights
+##  Revenue Insights
 
 - High revenue products do not necessarily produce high profits
 - Discounts significantly influence profitability
@@ -414,7 +414,7 @@ Important drivers:
 
 ---
 
-## ⚠ Fraud Detection Insights
+##  Fraud Detection Insights
 
 - Negative profit transactions show suspicious patterns
 - Fraud probability increases alongside delivery risk
@@ -422,7 +422,7 @@ Important drivers:
 
 ---
 
-## 🤖 Machine Learning Insights
+##  Machine Learning Insights
 
 - Gradient Boosting achieved best late-delivery prediction performance
 - Fraud prediction showed strong recall capability
@@ -430,7 +430,7 @@ Important drivers:
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 ## Improve Logistics Performance
 
@@ -456,7 +456,7 @@ Important drivers:
 
 ---
 
-# 📈 Business Impact
+#  Business Impact
 
 Potential benefits:
 
@@ -474,7 +474,7 @@ Potential benefits:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 dataco-supply-chain-analysis/
@@ -505,7 +505,7 @@ dataco-supply-chain-analysis/
 
 ---
 
-# 🚀 Skills Demonstrated
+#  Skills Demonstrated
 
 ### Python
 
@@ -535,7 +535,7 @@ dataco-supply-chain-analysis/
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Deploy models using Flask/FastAPI
 - Create real-time dashboards
@@ -566,5 +566,7 @@ If you found this project useful, consider giving this repository a ⭐
 It helps improve visibility and motivates future development.
 
 ---
+
+**Thank you for visiting this repository!**
 
 **Thank you for visiting this repository 🚀**
