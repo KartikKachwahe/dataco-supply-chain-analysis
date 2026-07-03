@@ -340,11 +340,11 @@ Evaluation:
 
 ### Confusion Matrix
 
-![Late Delivery](reports/figures/confusion_matrices_late_delivery.png)
+![Late Delivery](Images/confusion_matrices_late_delivery.png)
 
 ### ROC Curve
 
-![Late Delivery ROC](reports/figures/roc_late_delivery.png)
+![Late Delivery ROC](Images/roc_late_delivery.png)
 
 ---
 
@@ -358,11 +358,11 @@ Evaluation:
 
 ### Confusion Matrix
 
-![Fraud Detection](reports/figures/confusion_matrices_fraud.png)
+![Fraud Detection](Images/confusion_matrices_fraud.png)
 
 ### ROC Curve
 
-![Fraud ROC](reports/figures/roc_fraud.png)
+![Fraud ROC](Images/roc_fraud.png)
 
 ---
 
@@ -370,7 +370,7 @@ Evaluation:
 
 ## Fraud Detection Feature Importance
 
-![Fraud Features](reports/figures/feature_importance_fraud.png)
+![Fraud Features](Images/roc_fraud.png)
 
 Important drivers:
 
@@ -384,7 +384,7 @@ Important drivers:
 
 ## Late Delivery Feature Importance
 
-![Late Delivery Features](reports/figures/feature_importance_late_delivery.png)
+![Late Delivery Features](Images/feature_importance_late_delivery.png)
 
 Important drivers:
 
@@ -497,7 +497,7 @@ dataco-supply-chain-analysis/
 │   └── supply_chain_queries.sql
 │
 ├── reports/
-│   └── figures/
+│   └── figures/Images
 │
 ├── requirements.txt
 └── README.md
