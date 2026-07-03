@@ -568,5 +568,3 @@ It helps improve visibility and motivates future development.
 ---
 
 **Thank you for visiting this repository!**
-
-**Thank you for visiting this repository 🚀**
