@@ -370,7 +370,7 @@ Evaluation:
 
 ## Fraud Detection Feature Importance
 
-![Fraud Features](Images/roc_fraud.png)
+![Fraud Features](Images/feature_importance_fraud.png)
 
 Important drivers:
 
