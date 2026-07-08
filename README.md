@@ -537,7 +537,7 @@ dataco-supply-chain-analysis/
 
 #  Future Enhancements
 
-- Deploy models using Flask/FastAPI
+- Deploy models using Flask/FastAPI's
 - Create real-time dashboards
 - Integrate cloud storage
 - Add demand forecasting models
