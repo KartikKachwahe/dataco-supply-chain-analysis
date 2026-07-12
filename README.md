@@ -73,7 +73,7 @@ The project follows a complete analytics lifecycle:
 
 #  Business Problem
 
-Global supply chain systems face several challenges:
+Global Supply Chain Systems face several challenges:
 
 - Delayed deliveries
 - Revenue leakage
